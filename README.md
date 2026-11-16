@@ -1,3 +1,5 @@
+![Mohammad Haghjoo: Data Analytics and Data Science](banner.png)
+
 # Mohammad Haghjoo
 
 🎓 Master's student in International Information Systems at FAU Erlangen-Nürnberg  
@@ -32,11 +34,11 @@ the natural-language interface.
 
 ## 💼 Experience and education
 
-- Information Systems Specialist (Databases, Reporting and Data Integration), Shiraz Petrochemical Co., 2020 to 2025
-- Information Technology Specialist (Database Administration and Reporting), Tankerranan Petroleum Transport Company, 2014 to 2020
-- M.Sc. International Information Systems, FAU Erlangen-Nürnberg, since 2025
-- MBA, Strategic Management, Allameh Tabataba'i University, Tehran
-- B.Sc. Computer Engineering, Islamic Azad University, Tehran
+- Information Systems Specialist (Databases, Reporting and Data Integration), Shiraz Petrochemical Co., Tehran, Iran, 2020 to 2025
+- Information Technology Specialist (Database Administration and Reporting), Tankerranan Petroleum Transport Company, Rafsanjan, Iran, 2014 to 2020
+- M.Sc. International Information Systems, FAU Erlangen-Nürnberg, Nürnberg, Germany, since 2025
+- MBA, Strategic Management, Allameh Tabataba'i University, Tehran, Iran, 2021 to 2024
+- B.Sc. Computer Engineering, Islamic Azad University, Central Tehran Branch, Tehran, Iran, 2013 to 2020
 
 ## 🌍 Languages
 
