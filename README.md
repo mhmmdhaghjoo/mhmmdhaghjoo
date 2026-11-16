@@ -1,39 +1,47 @@
 # Mohammad Haghjoo
 
-Master's student in International Information Systems at FAU Erlangen-Nürnberg,
-based in Nürnberg. Before moving to Germany I spent five years as an
-information systems specialist, building and maintaining database systems and
-enterprise software, and completed an MBA with a thesis on big data analytics
-capabilities in online retail.
+🎓 Master's student in International Information Systems at FAU Erlangen-Nürnberg
+📍 Nürnberg, Germany
+🔎 Looking for a **working student position (Werkstudent) in data analytics or data science**, up to 20 hours per week
 
-I am looking for a **working student position in data science or data analytics**.
+I bring five years of professional experience with PostgreSQL databases, SQL
+reporting and data integration, and current project work in Python covering
+data cleaning, statistical analysis, machine learning and LLM-based tools.
 
-## Projects
+## 📊 Projects
 
-Three projects around one simulated online shop, each looking at it from a
-different angle.
+Three projects built around one simulated online shop. Each looks at the same
+business from a different angle: the data warehouse, the predictive model and
+the natural-language interface.
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [online-retail-sql-warehouse](https://github.com/mhmmdhaghjoo/online-retail-sql-warehouse) | Raw exports to a tested star schema, then cohort retention, RFM segments and promotion analysis in SQL | PostgreSQL, Python |
-| [customer-churn-ml-pipeline](https://github.com/mhmmdhaghjoo/customer-churn-ml-pipeline) | Churn prediction as an installable, tested package with leakage-safe snapshots and an out-of-time evaluation | pandas, scikit-learn, SciPy |
-| [text-to-sql-assistant](https://github.com/mhmmdhaghjoo/text-to-sql-assistant) | Questions in plain English answered by LLM-written SQL, with a read-only guard and an evaluation set | Python, SQLite, LLM APIs |
+| [Online Retail SQL Warehouse](https://github.com/mhmmdhaghjoo/online-retail-sql-warehouse) | Raw exports to a tested star schema, then cohort retention, RFM segments and promotion analysis in SQL | PostgreSQL, Python |
+| [Customer Churn ML Pipeline](https://github.com/mhmmdhaghjoo/customer-churn-ml-pipeline) | Churn prediction as an installable, tested package with leakage-safe snapshots and an out-of-time evaluation | pandas, scikit-learn, SciPy |
+| [Text-to-SQL Assistant](https://github.com/mhmmdhaghjoo/text-to-sql-assistant) | Questions in plain English answered by LLM-written SQL, with a read-only guard and an evaluation set | Python, SQLite, LLM APIs |
 
-## Skills
+## 🛠️ Skills
 
-- **Data analysis:** Python (pandas, NumPy, SciPy), SQL (PostgreSQL, SQLite), Matplotlib, Seaborn, Plotly
-- **SQL and data modelling:** window functions, CTEs, star schemas, indexing, data-quality checks
-- **Statistics and machine learning:** hypothesis testing, regression, classification, clustering, model evaluation (scikit-learn)
-- **LLMs for data analysis:** prompt engineering, text-to-SQL, classification and extraction, evaluation
-- **Software engineering:** Git, pytest, type hints, linting, packaging, GitHub Actions
+- **Programming:** Python (pandas, NumPy, SciPy, scikit-learn), SQL
+- **Databases:** PostgreSQL, SQLite; data modelling, star schema, indexing, ETL, data-quality checks
+- **Data analysis and statistics:** data cleaning, hypothesis testing, cohort and RFM analysis
+- **Machine learning:** regression, classification, clustering, model evaluation
+- **Visualisation and reporting:** Matplotlib, Seaborn, Plotly, SQL reporting
+- **LLMs for data analysis:** prompt engineering, text-to-SQL, classification and extraction
+- **Software engineering:** Git, GitHub Actions, pytest, type hints, linting, packaging
 
-## Background
+## 💼 Experience and education
 
-- M.Sc. International Information Systems, FAU Erlangen-Nürnberg (since 2025)
+- Information Systems Specialist (Databases, Reporting and Data Integration), Shiraz Petrochemical Co., 2020 to 2025
+- Information Technology Specialist (Database Administration and Reporting), Tankerranan Petroleum Transport Company, 2014 to 2020
+- M.Sc. International Information Systems, FAU Erlangen-Nürnberg, since 2025
 - MBA, Strategic Management, Allameh Tabataba'i University, Tehran
 - B.Sc. Computer Engineering, Islamic Azad University, Tehran
-- Languages: Persian (native), English (C1), German (A2), Turkish (intermediate)
 
-## Contact
+## 🌍 Languages
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0)
+Persian (native) · English (C1) · German (A2) · Turkish (intermediate)
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0) · mohammad.haghjoo@fau.de
