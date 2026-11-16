@@ -1,7 +1,7 @@
 # Mohammad Haghjoo
 
-🎓 Master's student in International Information Systems at FAU Erlangen-Nürnberg
-📍 Nürnberg, Germany
+🎓 Master's student in International Information Systems at FAU Erlangen-Nürnberg  
+📍 Nürnberg, Germany  
 🔎 Looking for a **working student position (Werkstudent) in data analytics or data science**, up to 20 hours per week
 
 I bring five years of professional experience with PostgreSQL databases, SQL
@@ -44,4 +44,4 @@ Persian (native) · English (C1) · German (A2) · Turkish (intermediate)
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0) · mohammad.haghjoo@fau.de
+[LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0)
