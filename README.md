@@ -7,17 +7,27 @@
 🔎 Looking for a **working student position (Werkstudent) in data analytics or data science**, up to 20 hours per week
 
 I bring five years of professional experience with PostgreSQL databases, SQL
-reporting and data integration, and current project work in Python covering
-data cleaning, statistical analysis, machine learning and LLM-based tools.
+reporting and data integration, an MBA that grounds the analysis in business
+questions, and current project work in Python covering data cleaning,
+statistical analysis, machine learning and LLM-based tools.
+
+📄 [CV (PDF)](Mohammad_Haghjoo_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0) · [CV (PDF)](Mohammad_Haghjoo_CV.pdf)
+
+## 🧭 How I work
+
+- **Business question first.** Each project starts from a decision someone has to make and ends in a report that leads with findings.
+- **Data quality before models.** Validation checks, reconciliation tests and documented cleaning rules come before any analysis.
+- **AI as a draft to be audited.** I use AI coding assistants and LLMs, and I treat their output as something to check: tests, out-of-sample evaluation and fairness audits decide what stays.
 
 ## 📊 Projects
 
-Three projects built around one simulated online shop. Each looks at the same
-business from a different angle: the data warehouse, the predictive model and
-the natural-language interface.
+Four end-to-end projects. Three look at one simulated online shop from
+different angles (data warehouse, predictive model, natural-language
+interface); the fourth is a people analytics study on HR records.
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [Employee Turnover Analytics](https://github.com/mhmmdhaghjoo/employee-turnover-analytics) | Ten years of HR records: turnover rates, survival analysis, resignation-risk models tested on unseen years, and a fairness audit, delivered as a management report | pandas, scikit-learn |
 | [Online Retail SQL Warehouse](https://github.com/mhmmdhaghjoo/online-retail-sql-warehouse) | Raw exports to a tested star schema, then cohort retention, RFM segments and promotion analysis in SQL | PostgreSQL, Python |
 | [Customer Churn ML Pipeline](https://github.com/mhmmdhaghjoo/customer-churn-ml-pipeline) | Churn prediction as an installable, tested package with leakage-safe snapshots and an out-of-time evaluation | pandas, scikit-learn, SciPy |
 | [Text-to-SQL Assistant](https://github.com/mhmmdhaghjoo/text-to-sql-assistant) | Questions in plain English answered by LLM-written SQL, with a read-only guard and an evaluation set | Python, SQLite, LLM APIs |
@@ -26,8 +36,8 @@ the natural-language interface.
 
 - **Programming:** Python (pandas, NumPy, SciPy, scikit-learn), SQL
 - **Databases:** PostgreSQL, SQLite; data modelling, star schema, indexing, ETL, data-quality checks
-- **Data analysis and statistics:** data cleaning, hypothesis testing, cohort and RFM analysis
-- **Machine learning:** regression, classification, clustering, model evaluation
+- **Data analysis and statistics:** data cleaning, hypothesis testing, cohort and RFM analysis, survival analysis
+- **Machine learning:** regression, classification, clustering, out-of-time model evaluation, fairness audits
 - **Visualisation and reporting:** Matplotlib, Seaborn, Plotly, SQL reporting
 - **LLMs for data analysis:** prompt engineering, text-to-SQL, classification and extraction
 - **Software engineering:** Git, GitHub Actions, pytest, type hints, linting, packaging
@@ -46,4 +56,4 @@ Persian (native) · English (C1) · German (A2) · Turkish (intermediate)
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0)
+[LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0) · [CV (PDF)](Mohammad_Haghjoo_CV.pdf)
