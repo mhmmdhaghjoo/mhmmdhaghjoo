@@ -8,10 +8,10 @@
 
 I bring five years of professional experience with PostgreSQL databases, SQL
 reporting and data integration, an MBA that grounds the analysis in business
-questions, and current project work in Python covering data cleaning,
-statistical analysis, machine learning and LLM-based tools.
+questions, and current project work in Python and R covering data cleaning,
+statistical analysis, A/B testing, machine learning and LLM-based tools.
 
-📄 [CV (PDF)](Mohammad_Haghjoo_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0) · [CV (PDF)](Mohammad_Haghjoo_CV.pdf)
+📄 [CV (PDF)](Mohammad_Haghjoo_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0)
 
 ## 🧭 How I work
 
@@ -21,26 +21,27 @@ statistical analysis, machine learning and LLM-based tools.
 
 ## 📊 Projects
 
-Four end-to-end projects. Three look at one simulated online shop from
-different angles (data warehouse, predictive model, natural-language
-interface); the fourth is a people analytics study on HR records.
+Five end-to-end projects. Four look at an online shop from different
+angles (data warehouse, predictive model, natural-language interface,
+A/B test in R); the fifth is a people analytics study on HR records.
 
 | Project | What it shows | Stack |
 |---|---|---|
 | [Employee Turnover Analytics](https://github.com/mhmmdhaghjoo/employee-turnover-analytics) | Ten years of HR records: turnover rates, survival analysis, resignation-risk models tested on unseen years, and a fairness audit, delivered as a management report | pandas, scikit-learn |
+| [Checkout A/B Test (R)](https://github.com/mhmmdhaghjoo/checkout-ab-test-r) | Should the shop switch to a one-page checkout? Power analysis, sample ratio check, frequentist and Bayesian estimates, segment effects and a peeking simulation, ending in a rollout recommendation in euros | R, tidyverse, ggplot2, rstanarm, R Markdown |
 | [Online Retail SQL Warehouse](https://github.com/mhmmdhaghjoo/online-retail-sql-warehouse) | Raw exports to a tested star schema, then cohort retention, RFM segments and promotion analysis in SQL | PostgreSQL, Python |
 | [Customer Churn ML Pipeline](https://github.com/mhmmdhaghjoo/customer-churn-ml-pipeline) | Churn prediction as an installable, tested package with leakage-safe snapshots and an out-of-time evaluation | pandas, scikit-learn, SciPy |
 | [Text-to-SQL Assistant](https://github.com/mhmmdhaghjoo/text-to-sql-assistant) | Questions in plain English answered by LLM-written SQL, with a read-only guard and an evaluation set | Python, SQLite, LLM APIs |
 
 ## 🛠️ Skills
 
-- **Programming:** Python (pandas, NumPy, SciPy, scikit-learn), SQL
+- **Programming:** Python (pandas, NumPy, SciPy, scikit-learn), R (tidyverse, ggplot2, rstanarm, R Markdown), SQL
 - **Databases:** PostgreSQL, SQLite; data modelling, star schema, indexing, ETL, data-quality checks
-- **Data analysis and statistics:** data cleaning, hypothesis testing, cohort and RFM analysis, survival analysis
+- **Data analysis and statistics:** data cleaning, hypothesis testing, A/B testing and experiment design, regression (including Bayesian), cohort and RFM analysis, survival analysis
 - **Machine learning:** regression, classification, clustering, out-of-time model evaluation, fairness audits
-- **Visualisation and reporting:** Matplotlib, Seaborn, Plotly, SQL reporting
+- **Visualisation and reporting:** Matplotlib, Seaborn, Plotly, ggplot2, R Markdown, SQL reporting
 - **LLMs for data analysis:** prompt engineering, text-to-SQL, classification and extraction
-- **Software engineering:** Git, GitHub Actions, pytest, type hints, linting, packaging
+- **Software engineering:** Git, GitHub Actions, pytest, testthat, lintr, type hints, linting, packaging
 
 ## 💼 Experience and education
 
