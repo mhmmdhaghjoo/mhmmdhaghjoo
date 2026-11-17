@@ -4,7 +4,7 @@
 
 🎓 Master's student in International Information Systems at FAU Erlangen-Nürnberg  
 📍 Nürnberg, Germany  
-🔎 Looking for a **working student position (Werkstudent) in data analytics or data science**, up to 20 hours per week
+🔎 Looking for a **working student position (Werkstudent) in data analytics or data science**, from December 2026, up to 20 hours per week
 
 I bring five years of professional experience with PostgreSQL databases, SQL
 reporting and data integration, an MBA that grounds the analysis in business
@@ -41,7 +41,7 @@ A/B test in R); the fifth is a people analytics study on HR records.
 - **Machine learning:** regression, classification, clustering, out-of-time model evaluation, fairness audits
 - **Visualisation and reporting:** Matplotlib, Seaborn, Plotly, ggplot2, R Markdown, SQL reporting
 - **LLMs for data analysis:** prompt engineering, text-to-SQL, classification and extraction
-- **Software engineering:** Git, GitHub Actions, pytest, testthat, lintr, type hints, linting, packaging
+- **Software engineering:** Git, GitHub Actions, pytest, testthat, linting (ruff, lintr), type hints, packaging
 
 ## 💼 Experience and education
 
