@@ -11,7 +11,7 @@ reporting and data integration, an MBA that grounds the analysis in business
 questions, and current project work in Python and R covering data cleaning,
 statistical analysis, A/B testing, machine learning and LLM-based tools.
 
-📄 [CV (PDF)](Mohammad_Haghjoo_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0)
+🌐 [Portfolio](https://mhmmdhaghjoo.github.io) · 📄 [CV (PDF)](Mohammad_Haghjoo_CV.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0)
 
 ## 🧭 How I work
 
@@ -57,4 +57,4 @@ Persian (native) · English (C1) · German (A2) · Turkish (intermediate)
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0) · [CV (PDF)](Mohammad_Haghjoo_CV.pdf)
+[Portfolio](https://mhmmdhaghjoo.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammad-haghjoo-b241823b0) · [CV (PDF)](Mohammad_Haghjoo_CV.pdf)
