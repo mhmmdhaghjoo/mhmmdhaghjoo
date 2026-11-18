@@ -49,7 +49,7 @@ A/B test in R); the fifth is a people analytics study on HR records.
 - Information Technology Specialist (Database Administration and Reporting), Tankerranan Petroleum Transport Company, Rafsanjan, Iran, 2014 to 2020
 - M.Sc. International Information Systems, FAU Erlangen-Nürnberg, Nürnberg, Germany, since 2025
 - MBA, Strategic Management, Allameh Tabataba'i University, Tehran, Iran, 2021 to 2024
-- B.Sc. Computer Engineering, Islamic Azad University, Central Tehran Branch, Tehran, Iran, 2013 to 2020
+- B.Sc. Computer Engineering (Software Engineering), Islamic Azad University, Central Tehran Branch, Tehran, Iran, 2013 to 2020
 
 ## 🌍 Languages
 
