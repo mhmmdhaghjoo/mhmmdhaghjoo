@@ -32,7 +32,7 @@ study on a public practice HR dataset.
 | [Checkout A/B Test (R)](https://github.com/mhmmdhaghjoo/checkout-ab-test-r) | Should the shop switch to a one-page checkout? Power analysis, sample ratio check, frequentist and Bayesian estimates, segment effects and a peeking simulation, ending in a rollout recommendation in euros | R, tidyverse, ggplot2, rstanarm, R Markdown |
 | [Online Retail SQL Warehouse](https://github.com/mhmmdhaghjoo/online-retail-sql-warehouse) | Raw exports to a tested star schema, then cohort retention, RFM segments and promotion analysis in SQL | PostgreSQL, Python |
 | [Customer Churn ML Pipeline](https://github.com/mhmmdhaghjoo/customer-churn-ml-pipeline) | Churn prediction as an installable, tested package with leakage-safe snapshots and an out-of-time evaluation | pandas, scikit-learn, SciPy |
-| [Delivery Performance Analytics](https://github.com/mhmmdhaghjoo/delivery-performance-analytics) | Is the delivery promise kept? 96,000 real marketplace orders: on-time rate by state and route, review impact of late delivery and promise calibration; Power BI dashboard in progress | pandas, pytest |
+| [Delivery Performance Analytics](https://github.com/mhmmdhaghjoo/delivery-performance-analytics) | Is the delivery promise kept? 96,000 real marketplace orders: on-time rate by state and route, review impact of late delivery and promise calibration, with a Power BI dashboard checked against Python | pandas, Power BI, DAX |
 
 ## 🛠️ Skills
 
