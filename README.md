@@ -21,10 +21,10 @@ statistical analysis, A/B testing and machine learning.
 
 ## 📊 Projects
 
-Five end-to-end projects. Three look at an online shop from different
-angles (data warehouse, predictive model, A/B test in R); one measures
-delivery performance on real marketplace data; one is a people analytics
-study on a public practice HR dataset.
+Four end-to-end projects in marketing and people analytics. Three look at
+an online shop from different angles (data warehouse, predictive model,
+A/B test in R); one is a people analytics study on a public practice HR
+dataset. The shop data is simulated so every result can be rerun.
 
 | Project | What it shows | Stack |
 |---|---|---|
@@ -32,7 +32,6 @@ study on a public practice HR dataset.
 | [Checkout A/B Test (R)](https://github.com/mhmmdhaghjoo/checkout-ab-test-r) | Should the shop switch to a one-page checkout? Power analysis, sample ratio check, frequentist and Bayesian estimates, segment effects and a peeking simulation, ending in a rollout recommendation in euros | R, tidyverse, ggplot2, rstanarm, R Markdown |
 | [Online Retail SQL Warehouse](https://github.com/mhmmdhaghjoo/online-retail-sql-warehouse) | Raw exports to a tested star schema, then cohort retention, RFM segments and promotion analysis in SQL | PostgreSQL, Python |
 | [Customer Churn ML Pipeline](https://github.com/mhmmdhaghjoo/customer-churn-ml-pipeline) | Churn prediction as an installable, tested package with leakage-safe snapshots and an out-of-time evaluation | pandas, scikit-learn, SciPy |
-| [Delivery Performance Analytics](https://github.com/mhmmdhaghjoo/delivery-performance-analytics) | Is the delivery promise kept? 96,000 real marketplace orders: on-time rate by state and route, review impact of late delivery and promise calibration, with a Power BI dashboard checked against Python | pandas, Power BI, DAX |
 
 ## 🛠️ Skills
 
@@ -40,7 +39,7 @@ study on a public practice HR dataset.
 - **Databases:** PostgreSQL; data modelling, star schema, indexing, ETL, data-quality checks
 - **Data analysis and statistics:** data cleaning, hypothesis testing, A/B testing and experiment design, regression (including Bayesian), cohort and RFM analysis, survival analysis
 - **Machine learning:** regression, classification, clustering, out-of-time model evaluation, fairness audits
-- **Visualisation and reporting:** Matplotlib, Seaborn, Plotly, ggplot2, R Markdown, SQL reporting
+- **Visualisation and reporting:** Matplotlib, ggplot2, R Markdown, SQL reporting
 - **Software engineering:** Git, GitHub Actions, pytest, testthat, linting (ruff, lintr), type hints, packaging
 
 ## 💼 Experience and education
