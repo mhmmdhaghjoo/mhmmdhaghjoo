@@ -28,10 +28,10 @@ dataset. The shop data is simulated so every result can be rerun.
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [Employee Turnover Analytics](https://github.com/mhmmdhaghjoo/employee-turnover-analytics) | A public practice HR dataset covering ten years (likely simulated): turnover rates, survival analysis, resignation-risk models tested on unseen years, and a fairness audit, delivered as a management report | pandas, scikit-learn |
-| [Checkout A/B Test (R)](https://github.com/mhmmdhaghjoo/checkout-ab-test-r) | Should the shop switch to a one-page checkout? Power analysis, sample ratio check, frequentist and Bayesian estimates, segment effects and a peeking simulation, ending in a rollout recommendation in euros | R, tidyverse, ggplot2, rstanarm, R Markdown |
+| [Employee Turnover Analytics](https://github.com/mhmmdhaghjoo/employee-turnover-analytics) | A public practice HR dataset covering ten years (likely simulated): turnover rates, survival analysis, resignation-risk models tested on unseen years, and a fairness audit, delivered as a management report, plus a Streamlit explorer of cohort survival and fairness | pandas, scikit-learn, Streamlit |
+| [Checkout A/B Test (R)](https://github.com/mhmmdhaghjoo/checkout-ab-test-r) | Should the shop switch to a one-page checkout? Power analysis, sample ratio check, frequentist and Bayesian estimates, segment effects and a peeking simulation, ending in a rollout recommendation in euros, plus a Shiny app to plan and read the test | R, tidyverse, ggplot2, rstanarm, R Markdown, Shiny |
 | [Online Retail SQL Warehouse](https://github.com/mhmmdhaghjoo/online-retail-sql-warehouse) | Raw exports to a tested star schema, then cohort retention, RFM segments and promotion analysis in SQL | PostgreSQL, Python |
-| [Customer Churn ML Pipeline](https://github.com/mhmmdhaghjoo/customer-churn-ml-pipeline) | Churn prediction as an installable, tested package with leakage-safe snapshots and an out-of-time evaluation | pandas, scikit-learn, SciPy |
+| [Customer Churn ML Pipeline](https://github.com/mhmmdhaghjoo/customer-churn-ml-pipeline) | Churn prediction as an installable, tested package with leakage-safe snapshots and an out-of-time evaluation, plus a Streamlit simulator for the contact threshold | pandas, scikit-learn, SciPy, Streamlit |
 
 ## 🛠️ Skills
 
@@ -39,7 +39,7 @@ dataset. The shop data is simulated so every result can be rerun.
 - **Databases:** PostgreSQL; data modelling, star schema, indexing, ETL, data-quality checks
 - **Data analysis and statistics:** data cleaning, hypothesis testing, A/B testing and experiment design, regression (including Bayesian), cohort and RFM analysis, survival analysis
 - **Machine learning:** regression, classification, clustering, out-of-time model evaluation, fairness audits
-- **Visualisation and reporting:** Matplotlib, ggplot2, R Markdown, SQL reporting
+- **Visualisation, apps and reporting:** Matplotlib, ggplot2, Streamlit, Shiny, R Markdown, SQL reporting
 - **Software engineering:** Git, GitHub Actions, pytest, testthat, linting (ruff, lintr), type hints, packaging
 
 ## 💼 Experience and education
