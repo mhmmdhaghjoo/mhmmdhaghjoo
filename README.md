@@ -1,4 +1,4 @@
-![Mohammad Haghjoo: Data Analytics and Data Science](banner.png)
+![Mohammad Haghjoo: Business Data Science for marketing and people analytics](banner.png)
 
 # Mohammad Haghjoo
 
